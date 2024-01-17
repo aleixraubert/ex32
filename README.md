@@ -1,5 +1,11 @@
 # EX 32
 
+## Enunciat
+
+![foto_enunciat](/IMG/CAPTURA_ENUNCIAT.PNG)
+
+---
+
 ## Mètodes a implementar
 
 1. 
